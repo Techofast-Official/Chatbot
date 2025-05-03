@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+pandas
+langchain
+langchain-community
+langchain-openai
+langchain-groq
+groq
+faiss-cpu
