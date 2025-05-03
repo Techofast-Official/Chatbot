@@ -1,6 +1,6 @@
-# 📊 Enterprise Chat Assistant with RAG + Groq + Multi-PDF Support
+# Chat Assistant with RAG + Groq + Multi-PDF Support
 
-This project is an advanced enterprise-ready Retrieval-Augmented Generation (RAG) chat assistant. It allows users to upload multiple PDF documents, ask questions about their content, and receive answers powered by Groq LLMs. The assistant maintains chat history and supports exporting Q&A sessions as CSV files.
+This project is an advanced  Retrieval-Augmented Generation (RAG) chat assistant. It allows users to upload multiple PDF documents, ask questions about their content, and receive answers powered by Groq LLMs. The assistant maintains chat history and supports exporting Q&A sessions as CSV files.
 
 ---
 
